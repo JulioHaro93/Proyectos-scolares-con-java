@@ -1,0 +1,50 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 25 sep. 2022, 20:38:32
+    Author     : Julio Cesar Haro Capetillo
+*/
+
+table, th, td{
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    
+    
+}
+
+caption{
+    color: #00008B;
+    font-family: 'serif';
+    font-size: 40px;
+    
+    
+}
+th{
+    color:#ffffff;
+    background-color: #191970;
+}
+tr:nth-child(even){
+    background-color: #E0FFFF;
+}
+
+tr:nth-child(odd){
+    background-color: #87CEFA;
+}
+
+h2{
+    color: #00008B;
+    font-family: 'serif';
+}
+
+a:link, a:visited{
+    background-color: #191970;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    
+}

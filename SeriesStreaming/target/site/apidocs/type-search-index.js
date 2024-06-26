@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"uam.azc.pvoe.seriesstreaming.operaciones","l":"Lectura"},{"p":"uam.azc.pvoe.seriesstreaming.principal","l":"Principal"},{"p":"uam.azc.pvoe.seriesstreaming.clases","l":"Serie"}];updateSearchResults();

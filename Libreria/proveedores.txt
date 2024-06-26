@@ -1,0 +1,5 @@
+Porrua,FAAWN8KQYJ4N6,Direccion de la editorial 1,55973370605,Representante1 Apellido1,editorial1@editorial1.com
+Mac Graw Hill,UGJSENC1EWUXC,Direccion de la editorial 2,54759712319,Representante2 Apellido1,editorial2@editorial2.com
+Pearson,9939BRBBO1S65,Direccion de la editorial 3,20706157571,Representante3 Apellido1,editorial3@editorial3.com
+Editorial Uam,TU8XKUO7G3BVX,Direccion de la editorial 4,11144730589,Representante4 Apellido1,editorial4@editorial4.com
+Fondo de Cultura Economica,TKFDRUXAL3MEO,Direccion de la editorial 5,71725426211,Representante5 Apellido1,editorial5@editorial5.com
